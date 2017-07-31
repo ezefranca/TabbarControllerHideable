@@ -3,10 +3,10 @@ A drop in UITabbarController with show and hide options
 
 # TabbarControllerHideable
 
-[![CI Status](http://img.shields.io/travis/ezefranca/TabbarControllerHideable.svg?style=flat)](https://travis-ci.org/ezefranca/EFInternetIndicator)
-[![Version](https://img.shields.io/cocoapods/v/TabbarControllerHideable.svg?style=flat)](http://cocoapods.org/pods/EFInternetIndicator)
-[![License](https://img.shields.io/cocoapods/l/TabbarControllerHideable.svg?style=flat)](http://cocoapods.org/pods/EFInternetIndicator)
-[![Platform](https://img.shields.io/cocoapods/p/TabbarControllerHideable.svg?style=flat)](http://cocoapods.org/pods/EFInternetIndicator)
+[![CI Status](http://img.shields.io/travis/ezefranca/TabbarControllerHideable.svg?style=flat)](https://travis-ci.org/ezefranca/TabbarControllerHideable)
+[![Version](https://img.shields.io/cocoapods/v/TabbarControllerHideable.svg?style=flat)](http://cocoapods.org/pods/TabbarControllerHideable)
+[![License](https://img.shields.io/cocoapods/l/TabbarControllerHideable.svg?style=flat)](http://cocoapods.org/pods/TabbarControllerHideable)
+[![Platform](https://img.shields.io/cocoapods/p/TabbarControllerHideable.svg?style=flat)](http://cocoapods.org/pods/TabbarControllerHideable)
 
 ![](https://media.giphy.com/media/zSrnDtfRtgiQM/giphy.gif)
 
@@ -18,7 +18,7 @@ A drop in UITabbarController with show and hide options
 ## Installation
 
 #### CocoaPods
-You can use [CocoaPods](http://cocoapods.org/) to install `EFInternetIndicator` by adding it to your `Podfile`:
+You can use [CocoaPods](http://cocoapods.org/) to install `TabbarControllerHideable` by adding it to your `Podfile`:
 
 ```ruby
 use_frameworks!
