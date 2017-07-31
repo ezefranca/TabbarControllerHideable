@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TabbarControllerHideable'
-  s.version          = '0.1'
+  s.version          = '0.3'
     s.summary          = 'A UITabbarController replacement with show / hide options.'
 
 # This description is used to generate tags and improve search results.
